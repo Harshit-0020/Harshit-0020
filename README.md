@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshit-0020
 - 👀 I’m interested in machine learning and artificial intelligence.
 - 🌱 I’m currently learning Python. 
-- 💞️ Currently I'm not working on any major projects, will notify when I'll start working on them!
 - 📫 Facebook:- https://www.facebook.com/harshit0510
 
 <!---
