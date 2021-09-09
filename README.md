@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Harshit-0020
-- 👀 I’m interested in machine learning and artificial intelligence.
-- 🌱 I’m currently learning Python. 
+- 👀 I’m interested in the field of machine learning and artificial intelligence.
+- 🍧I have completed the basics of ML in octave, currently switching to python.
+- 🌱 I’m currently learning deep neural networks
 - 📫 Facebook:- https://www.facebook.com/harshit0510
 
 <!---
