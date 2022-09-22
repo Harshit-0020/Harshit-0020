@@ -2,7 +2,7 @@ Hello there  ^_^,
 
 - I am a 3rd year student at SVNIT, Surat in **ECE** 
 - **`Python  developer`**
-- Skilled in  `**Machine Learning**` (and Deep Learning) 
+- Skilled in  **`Machine Learning`** (and Deep Learning) 
 - Notorious **`Linux `** Distro Hopper
 - Learning **`Java`** and **`Android Development`**
 - Keen Interest in learning new technologies (`Philomath`)
