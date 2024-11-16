@@ -3,7 +3,7 @@ Hello there  ^_^,
 - **`Python  developer`**
 - Skilled in  **`Machine Learning`** (and **`Deep Learning`**) 
 - Notorious **`Linux `** Distro Hopper  | Currently using **`Arch`**
-- Keen Interest in learning new technologies (`Philomath`)
+- Interested in learning new stuff
 - LinkedIn - www.linkedin.com/in/harshit-bhardwaj-295a93205
 - Email - harshitbhardwaj015@gmail.com
 
