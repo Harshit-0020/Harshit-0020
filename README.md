@@ -9,20 +9,15 @@
 
 <br/>
 
-# 🌙 Hey, welcome to my room.
+# 🌙 Hey, welcome to my space.
 
-### `a curious mind building things on the internet`
+*Growing slowly. But steadily*
 
-*Learning out loud. Building slowly. Making things just because.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-explore_my_work-343746?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Learning](https://img.shields.io/badge/status-always_learning-b9c7a8?style=flat-square)](https://github.com/YOUR_USERNAME)
-[![Made with curiosity](https://img.shields.io/badge/made_with-curiosity-e6c39b?style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Made with curiosity](https://img.shields.io/badge/made_with-curiosity-e6c39b?style=flat-square)](https://github.com/Harshit-0020)
 
 </div>
-
+<!--
 ---
-
 ## 🪴 A little about me
 
 Imagine a tiny bedroom at 2 AM.
